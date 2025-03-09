@@ -123,7 +123,7 @@ contract FreeRiderChallenge is Test {
      * CODE YOUR SOLUTION HERE
      */
     function test_freeRider() public checkSolvedByPlayer {
-        //test
+        // test
     }
 
     /**
